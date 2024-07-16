@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+M88 - m88.toys - Nhà Cái Cá Cược Uy Tín 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`M88 <https://m88.toys/>`_ là một nhà cái trực tuyến hàng đầu, cung cấp nhiều dịch vụ cá cược và trò chơi phong phú. Được thành lập vào năm 2007 và sở hữu bởi Mansion Group, M88 đã trở thành một cái tên uy tín trong ngành công nghiệp trò chơi trực tuyến. Dịch vụ cá cược thể thao tại M88 rất đa dạng, bao gồm các môn thể thao như bóng đá, bóng rổ và quần vợt, với nhiều loại cược và tỷ lệ cược cạnh tranh. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Sòng bạc trực tuyến của M88 cung cấp nhiều trò chơi bàn như blackjack, roulette, và baccarat, cùng với các máy đánh bạc đa dạng và trải nghiệm sống động với người chia bài trực tiếp. Phòng chơi poker và các giải đấu poker của M88 cũng thu hút nhiều người chơi với phần mềm tiên tiến và bảo mật cao. Ngoài ra, M88 còn cung cấp các dịch vụ xổ số và keno, thể thao ảo, và game bài đổi thưởng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 24 Đ. Số 5, Tân Tạo A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0982173586. 
 
-.. toctree::
+Email: info@m88.toys. 
 
-   usage
-   api
+Website: https://m88.toys/
+
+#m88 #nhacaim88 #trangchum88 #dangkym88 #linkm88
